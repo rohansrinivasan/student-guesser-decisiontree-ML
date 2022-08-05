@@ -30,5 +30,5 @@ Finally the dataset is trained on a decision tree classifier.
 ### Model Accuracy: 86.5%
 
 ### Team
-* Rohan Srinivasan (@rohansrinivasan)
-* Peddi Giridhar (@Giridhar4)
+* Rohan Srinivasan (https://github.com/rohansrinivasan)
+* Peddi Giridhar (https://github.com/Giridhar4)
