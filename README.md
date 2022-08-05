@@ -6,8 +6,10 @@ This project is a self work for our Machine Learning course during our 6th semes
 ```
 pip install -U scikit-learn
 ```
+### Dataset Location
+/dataset/6ECEINATOR.csv
 
-# Working of Code
+# Working of Model
 The classifier works on the basis of a custom dataset made for the students of our class.
 We split them into various categories of differences and make a csv file out of that.
 Parameters used to split/categorise them are:
