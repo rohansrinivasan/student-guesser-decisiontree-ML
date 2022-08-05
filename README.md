@@ -28,3 +28,7 @@ The paramters are then encoded to labels.
 Finally the dataset is trained on a decision tree classifier.
 
 ### Model Accuracy: 86.5%
+
+### Team
+* Rohan Srinivasan (@rohansrinivasan)
+* Peddi Giridhar (@Giridhar4)
